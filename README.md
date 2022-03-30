@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hjy3012
-- 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision.
-- 🌱 I’m currently learning Python Programming.
+- 👋 Hi, I’m Jia Yi.
+<!--- - 👀 I’m interested in Software Development, Machine Learning, Deep Learning and Computer Vision. --->
+<!--- - 🌱 I’m currently learning Python Programming. --->
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me ... hanjiayi3012@gmail.com
 
